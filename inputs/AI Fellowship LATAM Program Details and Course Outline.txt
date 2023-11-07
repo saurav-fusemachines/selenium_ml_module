@@ -1,0 +1,513 @@
+﻿Fusemachines AI Fellowship 2023 
+Program Description
+Fusemachines Democratizing AI Education
+A MicrodegreeTM program for Artificial Intelligence is an accelerated learning program in Artificial Intelligence. The MicrodegreeTM program is created by the leading US university faculty members and AI industry experts. It is specifically designed to upskill engineers/ domain experts with AI and Data Science expertise.
+Program Outcomes
+1. Participants will garner data science and ML skills with hands-on experience in real world problems
+2. Participants will develop a solid understanding of Artificial Intelligence, Machine Learning, and Deep Learning algorithms with an understanding of underlying math and programming practices.
+3. Select and implement appropriate algorithms, libraries, frameworks, and techniques for different problems.
+4. Run experiments to assess the performance, evaluate and compare different models to design and deploy an end-to-end pipeline
+
+
+Course Schedule:
+
+
+Weeks : 24 Weeks ( 20 Weeks = Course + 4 Weeks = Exam and Project)        
+Method of Teaching: 
+Pace of course =  12 hours/Week
+* Lectures = 2 Hours/Week
+* Self-study = 10 hours/Week
+Blended Learning x
+* Most of the content will be available online to be viewed on their own pace
+* Online Live Discussion by Academics and Industry Experts weekly
+* Programming Assignments
+* Quizzes
+* Final Examination
+* Group Projects
+* Paper reading sessions
+Assessment Grading: 
+Online (Quiz, Assignments) + In-Class (Exams, Projects, Class Activities)
+Target Audience / Prerequisites
+Engineering students, IT students [Final year], Graduates or professionals who
+* have taken courses on Linear Algebra, Probability, Statistics, and Basic Calculus
+* have taken some programming and computer science courses
+* are able to program in python
+* Soft skills: Fluent in English, Good communication skills, Teamwork, learning attitude
+
+
+There will be an eligibility test to check if students have enough foundation skills to take the course.
+Aptitude test:
+* Programming; Python programming
+* Math: Linear Algebra, Calculus, Probability, and Statistics
+* Computer Science topics: DSA, Algorithms, Database
+* Software Development Skills: Git, Rest, SQL
+* IQ and Problem-solving
+* Behavioral Questions
+
+
+
+
+Instructor/ TAs:
+* From LATAM
+* Fusemachines employees
+
+
+Program Features
+* Live Online Lectures and Guest Lectures
+   * Weekly Lecture Sessions
+   * Recordings of live classes available
+* Access to AI Enabled Online Classroom Platform
+   * Course Videos
+   * Reading Materials
+   * Programming Notebooks
+   * Practice Quizzes
+   * Graded Programming Assignments
+   * Proctored exams
+* Weekly guest lectures on applied topics: Git, deployment, application on specific domains
+* Weekly newsletter [Announcements, reminders, news]
+Case Studies and Paper reading
+Group Projects
+Kaggle Competitions
+Student Community Forum, Fuse classroom platform, and Slack
+Access on Mobile and Desktop
+Certificate of Completion
+
+
+For Website
+* Online Live Lectures & Discussions
+* AI Enabled Platform
+* Group Projects and Competitions
+* AI Community Forum
+* Certificate of Completion
+
+
+Scholarship and Payment
+        Every selected candidate will be awarded a full scholarship to complete the course.
+
+
+
+
+
+
+Enrollment Steps
+1. Online Application
+   1. General Info: Name, Email ID, Contact Number, Country, Address,Gender 
+   2. Degree and Affiliation
+   3. LinkedIn Id
+   4. Upload CV
+2. Online Proctored Entrance Examination
+3. Interview of Shortlisted Candidates
+4. Enrollment and Onboarding
+________________
+
+
+Program Description        1
+Program Outcomes        1
+Program Features        2
+Week 1 Introduction to AI/ML and Data Science        4
+Week 2 Data Wrangling        5
+Week 3 Regression & Classification        5
+Week 4 Popular ML Models        6
+Week 5 Clustering        6
+Week 6 Ensemble Methods        6
+Week 7 Neural Networks        7
+Week 8 Image Processing, Feature Detection & Matching        7
+Week 9 CNN & Transfer Learning        8
+Week 10 Deploying ML models        8
+Week 11 Object Detection and Segmentation        9
+Week 12 Recurrent Neural Networks and Transformers        9
+Week 13 Natural Language Processing        10
+Week 14 Language Models & LLMs        10
+Week 15 Deep Unsupervised Learning        10
+Week 16 GANs and Diffusion Model        11
+Week 17 Foundational Models        11
+Week 18 Reinforcement Learning        12
+Week 19 Reinforcement Learning  (continued)        12
+Week 20 ML as a Services        12
+Week 21 MLOps        13
+Week 22 Exam        13
+Week 23 Project Presentation        13
+Optional Topics        13
+Program FAQs        13
+T&C Documents        15
+Implementation Plans        15
+
+
+
+
+
+
+1. Introduction to AI/ML and Data Science
+After completing this module, students should be able to:
+* Show and understanding of artificial intelligence, machine learning, and deep learning and other relevant terminologies
+* Describe different categories of AI, the types of machine learning and their applications
+* Understand the concept of Agents such as Search Agent, Adversarial agents and so on
+* Write a search agent to solve search problems
+
+
+        Assignment: 
+* Solve boat crossing puzzle using search Agents
+
+
+2. Data Wrangling
+After completing this module, students should be able to:
+* Recognized different data types and data attributes
+* Scrape data from the internet 
+* Clean data quality issues in datasets
+* Apply data normalization and scaling
+* Deal with data outliers and anomalies
+* Visualize dataset using different plots 
+
+
+Assignment
+* WebScraping Wikipedia pages
+* Exploratory Data Analysis (EDA): Analyze and visualize a dataset to gain insights and discover patterns.
+
+
+3. Regression & Classification
+After completing this module, students should be able to:
+* Define basic machine learning terminologies,
+* Create a linear regression model for predicting continuous values from data
+* Create a logistic regression model for predicting classes,
+* Write gradient descent algorithm (Stochastic and Batch Gradient Descent) to train the linear regression and logistic regression model,
+* Evaluate the performance of regression and classification models,
+* To find out and improve Overfit or Underfit model,
+* Implement regularization to improve model performance,
+* Build, train and evaluate Regression and Classification models with Scikit-learn.
+
+
+Assignment on Predictive Modeling:
+* Build a regression model to predict students' final grade
+* Customer Churn Prediction: Build a classification model to predict customer churn based on historical data.
+
+
+4. Popular ML Models
+After completing this module, students should be able to:
+* Interpret and visualize the decision surface of an overfitted decision tree. 
+* Analyze how noise can cause the decision tree to go unnecessarily deep.
+* Learn how to handle categorical and continuous features when using Naive Bayes. 
+* Understand the concept of prior and posterior probabilities in Naive Bayes and their role in the classification process.
+* Describe Margin Classifier, the slack variables and implement the SVM with slack variables.
+* Understand linearly separable and non-linearly separable data.
+* Search the nearest neighbor using the K-D Tree algorithm.
+* Implement K-NN algorithm for classification and recognize the effect of variation in K-values
+* Benchmarking models
+Assignment
+* Build a model that can predict multiple genres of a movie based on its plot summary or other relevant features.
+
+
+5. Clustering
+After completing this module, students should be able to:
+* Examine the effect of centroid initialization in convergence and describe the various initialization methods in K-means clustering
+* Explain and implement DIANA algorithm (Agglomerative, BRICH)
+* Explain density-based clustering and Exemplify terminologies such as ϵ-neighborhood, density, core points, boundary points, outliers, density reachability, and connectivity.
+* Explain the statistical cluster validation methods
+Assignment
+* Market segmentation: Cluster customers based on their purchasing behavior or demographic data to identify distinct customer groups.
+
+
+6. Ensemble Methods
+After completing this module, students should be able to:
+* Decompose errors into bias, variance, and noise, and identify their causes in a model's poor performance. 
+* Explain ensemble methods and understand why they work, emphasizing the importance of diversity and accuracy within ensembling.
+* Explain bagging and bootstrapping, understand why averaging reduces variance, and list the advantages of bagging.
+* Understand random forest and differentiate it from bagging, listing the steps involved in creating a random forest.  
+* Distinguish boosting from bagging, explain boosting as a sequential weighted averaging technique, and discuss its working with an algorithm.  
+* Understand the working of and use XGBoost, CatBoost and LightGBM
+
+
+Assignment
+* AirBnB guest arrival prediction using tree-based methods
+* Random Forest classifier: Use the Random Forest algorithm to build an ensemble of decision trees for classification tasks.
+* Gradient Boosting regression: Implement Gradient Boosting to create an ensemble of weak learners for regression tasks.
+
+
+7. Neural Networks
+After completing this module, students should be able to:
+* Describe the basics of neural networks and correlate it with biological neurons (this may also be redundant because of deep learning content)
+* Examine and recognize the problems where the use of Neural network is appropriate
+* Explain how Perceptron Learning Algorithm helps to learn the parameter for the perceptron
+* Explain why multi-layer perceptron are universal approximator
+* Use tensorflow / Pytorch to perform basic tensor computation
+
+
+Assignment
+* Implement artificial neural networks to predict the number of sales for a company based on the advertisement platforms like TV, Radio and Newspaper.
+
+
+
+
+
+
+8. Image Processing, Feature Detection & Matching
+After completing this module, students should be able to:
+* Understand the principles of image formation, camera geometry, and digital camera components
+* Apply projective transformations, perspective transformations, and multi-view geometry concepts to perform translation, scaling, rotation, and projections in both 2D and 3D spaces.  
+* Perform various image processing operations, including pixel transformations, histogram analysis, noise removal, filtering, sharpening, deblurring, resizing, and morphology.
+* Used algorithms and filters for edge detection, feature detection and matching techniques, including corner detection using the Harris Corner Detector and scale-invariant feature detection using SIFT.
+Assignment
+
+
+* Edge detection: Implement algorithms like Canny edge detection or Sobel operator to detect edges in images. 
+* Image segmentation using clustering: Apply clustering techniques like K-means or Mean Shift to segment images into different regions or objects.
+9. CNN & Transfer Learning
+After completing this module, students should be able to:
+* Visualize the convolution operation in a CNN and point out the distinguishing features of a CNN in comparison with an ANN
+* Explain the architecture and working principles of CNNs, including convolutional layers, pooling layers, and fully connected layers.
+* Explain different CNN seminal architecture (VGG, ResNet, InceptionNet) and analyze their importance.
+* Identify, select and fine-tune appropriate pre-trained CNN models for different image analysis tasks.
+* Application of CNN in Computer vision
+
+
+Assignment
+* Image classification with pre-trained models: Fine-tune a pre-trained CNN model like VGG or ResNet on a new dataset for a specific classification task. 
+* Object detection: Use a pre-trained CNN model like YOLO or SSD to detect and localize objects in images or videos.
+10. Deploying ML models
+* Build a machine learning pipeline: Create an end-to-end pipeline that includes data ingestion, preprocessing, model training, and deployment in a production environment
+* Implement a RESTful API using a web framework and Handle incoming requests and route them appropriately.
+* Determine whether the API should be public or private and Implement authentication and authorization mechanisms 
+* Document API endpoints and functionality Consider rate limiting and other usage control measures
+* Select appropriate Deployment Strategies for a given use case: Recreate, Shadow, Canary, Blue/Green
+Assignment: Deploy a Machine Learning model engine with REST API or using streamlit
+
+
+11. Object Detection and Segmentation
+After completing this module, students should be able to:
+* Develop a comprehensive understanding of object recognition and localization concepts, including image classification, object detection, and the use of bounding boxes and performance metrics.
+* Understand the problem of computer vision addressed by segmentation and differentiate between different types of segmentation techniques such as watershed algorithm, K-means clustering, and mean shift clustering.
+* Use object detection architectures such as Faster R-CNN, YOLO (You Only Look Once), and SSD (Single Shot MultiBox Detector) and Segmentation architectures such as U-Net, Mask R-CNN, and DeepLab
+Assignment: Perform Object Detection and Segmentation on Popular dataset
+
+
+
+
+12. Recurrent Neural Networks and Transformers
+After completing this module, students should be able to:
+* Understand the fundamentals of RNN, including the structure of recurrent units, the computational graph, and backpropagation in RNNs.  
+* Gain knowledge of seminal architectures such as Long Short-Term Memory Networks (LSTMs) and Gated-Recurrent Units (GRUs). 
+* Understand the concept of attention in neural networks, including the motivation behind using attention mechanisms to address the limitations of sequence-to-sequence architectures. 
+* Learn the different types of attention and Explain transformers, and analyze how it surpasses architecture like LSTM and GRU.
+
+
+Assignment
+* Language translation: Build a sequence-to-sequence model using a recurrent neural network or transformer architecture to translate sentences between languages. 
+* Text generation: Train a recurrent neural network model to generate text, such as writing poetry or generating dialogue.
+
+
+13. Natural Language Processing
+After completing this module the student should be able to: 
+* Understand the relationship between language and knowledge, delve into morphology and tagging, syntax and parsing, and explore lexical semantics using resources like WordNet. 
+* Clean, transform and preprocess text data
+* Describe the tf-idf model and implement it using sk-learn.
+* Describe Naive Bayes Classifier in the context of text classification
+* Analyze the problems with using RNN for the long sentences
+* State the difference between using RNN and CNN for the same NLP task.
+Assignment
+* Implementation of POS Tagging from Scratch
+
+
+14. Language Models & LLMs
+After completing this module, students should be able to:
+* Explain Markov Models, Markov Assumptions and find out when to use Markov Models
+* Discuss n-gram models and apply MLE to estimate n-gram probabilities and discuss generalization issues in n-grams
+* Evaluate language models using perplexity
+* Understand how neural networks are used in language modeling in contrast to n-gram language modeling
+* Appraise the semantic property of word embeddings: analogy reasoning with a classic example of king-man+woman=queen
+* Understand Large Language Models & pre-training LLMs
+* Understand the current issues  and limitations with LLMS: Hallucinations, inconsistency, model drift, size and training time
+* Use Prompt Engineering for in context learning at inference time
+* Decide on pre-trained model or pre- training and fine-tuning a custom model for specific use cases
+
+
+Assignment
+
+
+* Transfer learning of LLM for text Summarization, Open Domain Chatbot etc
+
+
+15. Deep Unsupervised Learning 
+After completing this module, students should be able to:
+* Classify different types of generative models into a certain taxonomy
+* Learn about explicit and implicit density estimation, and Boltzmann Machines (RBM).
+* Recall autoencoders and extend their idea and intuitively understand and explain variational autoencoders(VAE), and reparameterization tricks.
+* Understand and Train Latent Variable Models
+* Understand normalizing flows and implement models with normalizing flows, RealNVP, NICE, Glow.
+
+
+Assignment
+* Autoencoders for image denoising: Implement an autoencoder model to denoise images corrupted with noise or artifacts. 
+
+
+
+
+
+
+16. GANs and Diffusion Model  
+After completing this module, students should be able to:
+* Visualize how mode collapse occurs during the training of GANs
+* Explain how a poor and great discriminator behavior affects the training process in GANs
+* Interpret why tracking the performance of GANs is difficult.
+* Explore Generative Adversarial Networks(GANs), analyze their limitations, and understand different types of GANs (CGAN, WGAN, DCGAN)
+* Explore the cutting-edge world of diffusion-based generative AI.
+* Gain deep familiarity with the diffusion process and the models driving it
+Assignments
+* Paper Reading and Implementation of  Generative Adversarial Nets
+* Create your own diffusion model from scratch.
+
+
+17. Foundational Models and Generative AI
+After completing this module, students will be able to:
+* Understand the concept of foundation models and in context learning
+* Learn the principles of transfer learning and how pre-trained models can be leveraged as foundation models.
+* Adapt and fine-tune foundation models to suit the requirements of specific tasks.
+* Identify limitations, potential biases, and ethical considerations associated with using foundation models.
+        
+        Assignments
+* Fine-tune a foundation model for sentiment analysis on a dataset of customer reviews.
+* NER: Train a foundation model to identify and classify named entities in a text corpus.
+* Fine-tune a foundation model to classify images into different categories.
+
+
+
+
+18. Reinforcement Learning 
+After completing this module, students should be able to:
+* Discuss the Importance of RL and the type of problem to be solved using Reinforcement Learning.
+* Understand the k-armed bandit problem, the Markov property, Policy Iteration and Value Iteration for solving MDP
+* Solve the Bellman equations for small MRPs to determine the values of state
+* Solve the Bellman equations for small MDPs
+* Formulate various prediction and control algorithms of monte carlo
+* Explain the Q-Learning algorithm
+* Explain the Expected Sarsa and It's relationship between Sarsa and Q-Learning
+        Assignment: 
+* Tic-Tac-Toe Game Agent
+
+
+19. Reinforcement Learning  (continued)
+After completing this module, students should be able to:
+* Distinguish continuous problems methods from tabular methods, explain various methods such as coarse coding, tile coding.
+* Understand the Monte Carlo Methods, Model-free, and how Temporal Difference (TD) combines Monte Carlo (MC) method and Dynamic Programming (DP)
+* Understand DQN architecture, Double DQN, Dueling DQN, different policy gradient algorithms, PPO along with advantages and pitfalls.
+* Understand the working of the Actor-Critic, and the problem with continuous action space, and explain how DDPG solves it.
+* Gym ecosystem and RLib
+
+
+Assignment
+* Stock market prediction with Double DQN
+
+
+
+
+20. ML as a Services
+After completing this module, students should be able to:
+* Understand the concept of ML as a Service
+* Use apis to access ML services from different providers - OpenAI, AWS, GCP, Azure.
+* Use AWS SageMaker, Google Cloud Machine Learning Engine, and Microsoft Azure Machine Learning. 
+* Train and deploy ML Models from cloud providers
+        Assignment: Developing ML product with Cloud services
+
+
+
+
+21. MLOps
+After completing this module, students should be able to:
+
+
+* Understand ML in production, its operational workflow and its components. Discuss knowing, labeling and validating data.
+* Understand feature engineering & preprocessing and discuss their various techniques in detail.
+* Discuss filter, wrapper and embedded feature selection methods.
+* Understand the fundamental concepts and definitions of Neural Architecture Search (NAS) and auto-ML. 
+* Monitor model and data for Model Stability and Drift
+* Configure Logging, Monitoring and Triggers for deployment
+
+
+        Assignment: Predicting data drift and model drift
+22. Exam
+23. Project Presentation
+
+
+Program FAQs 
+1. What does a career in AI look like? 
+AI fellows can apply for different machine learning positions during the program or after completion of the program at fusemachines. Furthermore, fellows are capable enough to apply to data science and machine learning jobs. The fellowship would also help them have a good foundation for further studies in AI.
+2. How is the demand-and-supply status of AI-related jobs in LATAM and abroad?
+AI-related jobs are growing worldwide including in LATAM. Many organizations are seeking data analysts and data scientists to get better insights into their data and many organizations are employing ML engineers to build AI systems for their company or to provide ML engineer services.
+3. Can candidates apply for placement positions at Fusemachines or other companies?
+Yes, AI Fellows will get preference in placement opportunities at fusemachines. There will be special openings just for AI fellows only as well.
+4. What background is necessary for enrollment in the program? Target Audience
+Fusemachines AI Fellowship can be pursued by students and engineers who already possess basic Computer Science and Mathematics foundations. These prerequisites include basic knowledge of linear algebra, calculus, probability, and statistics. The program also requires programming experience in Python and know-how in the implementation of computer science algorithms and object-oriented programming. Participants should have the ability to run programs and interpret output from a command line terminal or shell. Ideally, students fitting the enrollment criteria generally include 4th-year graduating students who check off the specifications. Prior to enrollment, students will be required to undergo an eligibility test to check if they have enough foundational skills to take the course. 
+
+
+5. What will I be able to do after completing this course? Program Outcomes
+After the completion of the courses in the program, you will develop a solid understanding of Machine Learning and Deep Learning algorithms, with an advanced understanding of underlying concepts of math and coding. You will be able to then select and apply appropriate algorithms, libraries, and frameworks techniques for different AI problems and assess the performance, evaluate and compare different AI models to design and deploy end-to-end pipelines. You will also be able to run experiments to change code details to improve the algorithm.
+6. Do we have to do any project work?
+Yes, students will be required to do certain project works pertaining to each course.
+Project works contribute 30% to the final grading in each course. 
+
+
+7. What is the duration of the course and program? Courses
+The course is 24 Weeks long.  20 Weeks for the course contents and 4 Weeks buffer for examination and Project works.
+
+
+8. At what time will the sessions be held? Course Schedule:
+TBD , Different Time Zones
+
+
+9. Are these courses accredited?
+These courses are not university-accredited courses. They are provided by Fusemachines and are recognized by many other organizations.
+10. Courses for Preparation for examination
+   1. Linear Algebra
+   2. Multivariate Calculus
+   3. Probability and Statistics
+   4. Python Programming and Common Libraries
+   5. Basic CS Concepts, Data Structures, and Algorithms
+
+
+
+
+Highlights:
+* Machine Learning Foundation
+   * Regressions
+   * Classification
+   * Clustering
+   * Performance Metrics
+   * Reinforcement Learning
+* Neural Network and Deep Learning
+   * Artificial Neural Network
+   * Tensorflow / Pytorch
+   * Training, Evaluating and Fine tuning Models
+   * CNNs, RNNs, GANs, and SOTA Models
+   * Deep Reinforcement Learning
+* Computer Visions
+   * Object Detection
+   * Image Segmentation
+   * Image Generation
+* Natural Language Processing
+   * Text Extraction, NER
+   * Sentiment Analysis
+* Generative AI
+   * Large Language Models LLMs
+   * Image Generations
+   * Prompt engineering
+* MLOPs
+   * Deployment
+   * Monitoring
+   * ML as a Service
+________________
+T&C Documents
+   1. Honor Code
+   2. Non-Disclosure Agreement
+
+
+Implementation Plans
+Thoughts on Value Proposition
+
+
+   1. Industrial AI Exposure through 
+   1. Contents created by industry experts and academicians
+   2. Interaction with industry experts 
+   3. Real-world Assignments and Projects
+   2. Self-Assessment : test your knowledge and skill in AI
+   3. Independent self-paced learning: learn at your own pace and own time through online contents. Instructors’s pace is a guideline to push students to complete the course together
+   4. Interactive learning: online discussion sessions, paper reading sessions
+   5. Immersive learning: case studies, real-world projects, collaboration with peers
+   6. Networking with Peers and AI fellows Alumni Community (To work on)
